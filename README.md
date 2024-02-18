@@ -1,5 +1,5 @@
 ![logo](https://github.com/gsaiganesh283/gsaiganesh283/blob/main/gg4906%40srmist.edu.in_out.png)
-
+<img align="right" alt="coding" width="400" src="https://www.bing.com/th/id/OGC.974ed87627c13213a2b59bbd62792754?pid=1.7&rurl=https%3a%2f%2fmedia.tenor.com%2fAw2-4sShkCUAAAAd%2fcoding.gif&ehk=2KWsdxjcVE5n2jXF89NfLEgXqxoXAhEExrT8ggp8o8A%3d">
 # 💫 About Me:
 🔭 I’m currently studying Computer Science Engineering at SRMIST<br>👯 I’m looking to collaborate on Software Development - related Content developer<br>🌱 I’m currently learning Cloud Computing AWS, Database Management System<br>💬 Ask me about Cloud Computing<br>⚡ Fun fact - Having fun with coding
 
