@@ -1,4 +1,4 @@
-
+![logo](https://github.com/gsaiganesh283/gsaiganesh283/blob/main/gg4906%40srmist.edu.in_out.png)
 
 <h1 align="center">Hi 👋, I'm Saiganesh Raju Gottam</h1>
 <h3 align="center">A passionate Software developer from India</h3>
